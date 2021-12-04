@@ -27,8 +27,8 @@ A simple tool that will tell you whether a year is a leap year, according to the
 ## Planning
 
 | Input leap_year?(year) | Output | Description |
-| ---------------------- | ------ | ----------- |
-| 2000                   | true   | %400        |
-| 2009, 2010 and 2011    | false  | !%4         |
+| ---------------------- | ------ | ----------- | ---- |
+| 2000                   | true   | %400        | Done |
+| 2009, 2010 and 2011    | false  | !%4         | Done |
 | 2004, 2008 and 2012    | true   | %4 !%100    |
 | 1700, 1800 and 1900    | false  | %100 !%400  |
